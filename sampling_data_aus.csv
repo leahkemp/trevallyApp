@@ -1,0 +1,5 @@
+"season.caught","location.country","location.coordinate","location.latitude","location.longitude","radius","landing.date","subsample1","subsample2","subsample3","n"
+"autumn","australia","33°54.25 S 123°21.2 E",-33.904167,123.353333,5,"10-03-12","","","",27
+"summer","australia","34°20.98 S 115°10.57 E",-34.349667,115.176167,5,"19-02-12","","","",18
+"summer","australia","34°21.25 S 115°11.06 E",-34.354167,115.184333,5,"17-02-12","","","",10
+"winter","australia","28°47.0 S 114°34.4 E",-28.783333,114.573333,5,"9-08-12","","","",13
